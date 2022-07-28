@@ -66,9 +66,9 @@ Project: implement the Rho method of reduced SM3
 
 （14）任务14：多线程加速SM4 
 
-（15）任务15：MP报告展示 
+（15）任务15：MPT报告展示 
 
-Project: research report on MP
+Project: research report on MPT
 
 （16）任务16：SM2_PoC 
 
