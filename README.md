@@ -10,4 +10,8 @@
 
 5、已完成任务：
 
-（1）Project: implement the naïve birthday attack of reduced SM3
+（1）任务一：利用AVX指令优化SM4国密算法
+
+（2）任务二：软件优化SM3算法 
+
+Project: do your best to optimize SM3 implementation (software)
