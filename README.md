@@ -12,7 +12,7 @@
 
 ### 5、已完成任务：
 
-#### （1）任务一：利用AVX指令优化SM4国密算法
+#### （1）任务一：利用AVX指令优化SM4国密算法（没有Project体现，老师上课提及）
 
 链接：https://github.com/StevenSDU/-SM3-SM4
 
@@ -90,7 +90,7 @@ Project: implement the Rho method of reduced SM3
 
 链接：https://github.com/StevenSDU/SM3_rho_attack
 
-#### （14）任务14：多线程加速SM4 
+#### （14）任务14：多线程加速SM4 （没有Project体现，老师上课提及）
 
 链接：https://github.com/StevenSDU/SM4_Multhread
 
